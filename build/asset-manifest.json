@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21c864ae.chunk.css",
+    "main.js": "/static/js/main.e1037b74.chunk.js",
+    "main.js.map": "/static/js/main.e1037b74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2e7e365.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2e7e365.js.map",
+    "static/js/2.cd7b6633.chunk.js": "/static/js/2.cd7b6633.chunk.js",
+    "static/js/2.cd7b6633.chunk.js.map": "/static/js/2.cd7b6633.chunk.js.map",
+    "static/js/3.5196ee0a.chunk.js": "/static/js/3.5196ee0a.chunk.js",
+    "static/js/3.5196ee0a.chunk.js.map": "/static/js/3.5196ee0a.chunk.js.map",
+    "static/js/4.322f2b6c.chunk.js": "/static/js/4.322f2b6c.chunk.js",
+    "static/js/4.322f2b6c.chunk.js.map": "/static/js/4.322f2b6c.chunk.js.map",
+    "static/js/5.4f48888d.chunk.js": "/static/js/5.4f48888d.chunk.js",
+    "static/js/5.4f48888d.chunk.js.map": "/static/js/5.4f48888d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.21c864ae.chunk.css.map": "/static/css/main.21c864ae.chunk.css.map",
+    "static/js/2.cd7b6633.chunk.js.LICENSE.txt": "/static/js/2.cd7b6633.chunk.js.LICENSE.txt",
+    "static/js/3.5196ee0a.chunk.js.LICENSE.txt": "/static/js/3.5196ee0a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bgnft.856c08a3.png",
+    "static/media/coinbase.23d063a1.png": "/static/media/coinbase.23d063a1.png",
+    "static/media/nklogo.53068628.png": "/static/media/nklogo.53068628.png",
+    "static/media/walletconnectlogo.26a8f490.png": "/static/media/walletconnectlogo.26a8f490.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e7e365.js",
+    "static/js/2.cd7b6633.chunk.js",
+    "static/css/main.21c864ae.chunk.css",
+    "static/js/main.e1037b74.chunk.js"
+  ]
+}
